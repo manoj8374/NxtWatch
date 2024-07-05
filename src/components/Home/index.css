@@ -1,0 +1,4 @@
+.HomePageMainContainer {
+  display: flex;
+  min-height: 90vh;
+}
